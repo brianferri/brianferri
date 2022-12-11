@@ -1,7 +1,14 @@
+### About 👋
 
- 
+- 🔭 I’m currently working on a finace api
+- 🌱 I’m currently learning Python
+- 🤔 I’m learning web development
+- 💬 Ask me about discord bot making 
+- 📫 How to reach me: [Discord](discordapp.com/users/501073843595640833)
+- ⚡ Fun fact: I've learned all programming languages except C/C++ by reading other people's code
 
 ![Bio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BioCla&theme=radical&show_icons=true)
+
 <!--
 **BioCla/BioCla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
