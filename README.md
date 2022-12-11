@@ -1,6 +1,6 @@
 ### About 👋
 
-- 🔭 I’m currently working on a finace api
+- 🔭 I’m currently working on a University Degree
 - 🌱 I’m currently learning Python
 - 🤔 I’m learning web development
 - 💬 Ask me about discord bot making 
