@@ -1,9 +1,7 @@
 ### About 👋
 
 - 🔭 I’m currently working on a University Degree
-- 🌱 I’m currently learning Python
-- 🤔 I’m learning web development
-- 💬 Ask me about discord bot making 
+- 🌱 I’m currently learning Python and web development
 - 📫 How to reach me: [Discord](discordapp.com/users/501073843595640833)
 - ⚡ Fun fact: I've learned all programming languages except C/C++ by reading other people's code
 
