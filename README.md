@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a University Degree
 - 🌱 I’m currently learning Python and web development
 - 📫 How to reach me: [Discord](discordapp.com/users/501073843595640833)
-- ⚡ Fun fact: I've learned all programming languages except C/C++ by reading other people's code
+- ⚡ Fun fact: The programming languages I've learned, except C/C++, were all learned solely by reading other people's code
 
 ![Bio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BioCla&theme=radical&show_icons=true)
 
