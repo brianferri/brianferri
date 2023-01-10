@@ -1,7 +1,6 @@
 ### About 👋
 
-- 🔭 I’m currently working on a University Degree
-- 🌱 I’m currently learning Python, Web Dev, Lua
+- 🌱 I’m currently learning Python, Web Dev, Lua, Rust, Go
 - 📫 How to reach me: [Discord](discordapp.com/users/501073843595640833)
 - ⚡ Fun fact: The programming languages I've learned, except C/C++, were all learned solely by reading other people's code
 
