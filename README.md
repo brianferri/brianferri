@@ -5,6 +5,7 @@
 - ⚡ Fun fact: The programming languages I've learned, except C/C++, were all learned solely by reading other people's code
 
 ![Bio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BioCla&theme=radical&show_icons=true)
+![Bio's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=BioCla&theme=tokyonight)
 
 <!--
 **BioCla/BioCla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
