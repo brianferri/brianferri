@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **: Python, Frontend Web Dev, Lua, Rust, Go**
 
-- 📫 How to reach me **: [Discord](discordapp.com/users/501073843595640833)**
+- 📫 How to reach me **: [Discord](https://discordapp.com/users/501073843595640833)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
