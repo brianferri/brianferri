@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biocla" alt="biocla" /></a> </p>
 
-- 🌱 I’m currently learning **: Python, Frontend Web Dev, Lua, Rust, Go**
+- 🌱 I’m currently learning **: Python, Lua, Rust, Go, Flutter**
 
 - 📫 How to reach me **: [Discord](https://discordapp.com/users/501073843595640833)**
 
