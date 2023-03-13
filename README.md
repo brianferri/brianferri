@@ -3,14 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biocla" alt="biocla" /></a> </p>
 
-- 🌱 I’m currently learning **: Python, Lua, Rust, Go, Flutter**
-
-- 📫 How to reach me **: [Discord](https://discordapp.com/users/501073843595640833)**
+- 🌱 I’m currently learning **: Lua, Rust, Go, Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brian-ferri-59890a1b9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian ferri" height="30" width="40" /></a>
-<a href="https://instagram.com/brian_ferri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brian_ferri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
