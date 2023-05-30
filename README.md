@@ -16,9 +16,8 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=biocla&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="biocla" /></p>
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=biocla&show_icons=true&theme=tokyonight&locale=en" alt="biocla" /></p>
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=biocla&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="biocla" />
+</p>
 
 <!--
 **BioCla/BioCla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
