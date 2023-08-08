@@ -7,10 +7,10 @@
 
 <h2 align="left">Some other things I've worked on:</h3>
 <p align="left">
-  <a title="CSUnibot" href="https://github.com/csunibo/csunibot" target="_blank">
+  <a title="DJS-BOT" href="https://github.com/wtfnotavailable/Discord-MusicBot" target="_blank">
     <img align="center"
-      src="https://github.com/csunibo/csunibot/blob/master/assets/Seal_of_the_University_of_Bologna.svg.png?raw=true"
-      alt="Seal_of_the_University_of_Bologna.svg.png" alt="CSUnibot" width="50" height="50" />
+      src="https://avatars.githubusercontent.com/u/135033181?s=200&v=4"
+      alt="WTFNotAvailable" alt="WTFNotAvailable" width="50" height="50" />
   </a>
 </p>
 
