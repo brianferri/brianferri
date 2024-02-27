@@ -5,6 +5,7 @@
       alt="brian ferri" height="30" width="40" /></a>
 </p>
 
+<!--
 <h2 align="left">Some other things I've worked on:</h3>
 <p align="left">
   <a title="DJS-BOT" href="https://github.com/wtfnotavailable/Discord-MusicBot" target="_blank">
@@ -13,6 +14,7 @@
       alt="WTFNotAvailable" alt="WTFNotAvailable" width="50" height="50" />
   </a>
 </p>
+-->
 
 <!--
 <h2 align="left">Programming Languages:</h2>
